@@ -1,2 +1,0 @@
-# reduxFlix
-Created with CodeSandbox
